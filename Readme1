@@ -1,0 +1,66 @@
+# 🚡 SafeTweet – AI Bot Against Cyberbullying & Hate Speech
+
+https://huggingface.co/spaces/MujiburrRahman/Safe-Tweet> _"Helping make Twitter a safer space, one tweet at a time."_
+
+---
+
+## 🔍 What is SafeTweet?
+
+**SafeTweet** is an AI-powered moderation assistant that detects cyberbullying, hate speech, and misinformation in tweets. It uses **RAG (Retrieval-Augmented Generation)** with **Groq's LLaMA3** to generate safe, respectful responses to toxic tweets.
+
+🏆 Built for **Katy Youth Hacks 2025** – A hackathon for youth innovation!
+
+---
+
+## 💡 How It Works
+
+1. 🧪 **Tweet Analysis**: Input any tweet text.
+2. 🚨 **Toxicity Detection**: The model checks for hate speech, threats, or misinformation.
+3. 🧠 **RAG-Powered Response**: Combines context from a moderation guide + LLM to suggest a response.
+4. 🗣️ **User-Friendly Reply**: The response is respectful, informative, and non-violent.
+
+---
+
+## 🎯 Key Features
+
+- ✅ Real-time toxic content detection
+- 🧠 RAG with LangChain + Groq API for accurate, context-based replies
+- 📄 Uses `safe_tweet_guidelines.txt` to ground responses
+- 🌐 Gradio interface, deployable on Hugging Face Spaces
+
+---
+
+## 🌐 Live Demo
+
+👉 [Try it on Hugging Face Spaces](https://huggingface.co/spaces/MujiburrRahman/Safe-Tweet)  
+*(Replace with your real Hugging Face URL)*
+
+---
+
+## 🖼️ Sample Usage
+
+### 🔺 Input Tweet:
+> "You're such a dumb idiot. Nobody wants you here."
+
+### ✅ AI Detection:
+> ⚠️ Toxic content detected: "Insult"
+
+### 💬 Suggested AI Reply:
+> “Let’s foster kindness online. If you're experiencing harassment, here are resources that can help…”
+
+---
+
+## 🛠️ Tech Stack
+
+| Component        | Tool |
+|------------------|------|
+| LLM              | Groq (OpenAI-compatible, LLaMA3) |
+| RAG              | LangChain |
+| UI               | Gradio |
+| Deployment       | Hugging Face Spaces |
+| Moderation Data  | `safe_tweet_guidelines.txt` |
+
+---
+
+## 📁 Project Structure
+
