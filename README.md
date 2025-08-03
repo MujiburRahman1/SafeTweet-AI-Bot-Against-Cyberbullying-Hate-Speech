@@ -1,6 +1,6 @@
 # 🚡 SafeTweet – AI Bot Against Cyberbullying & Hate Speech
 
-![SafeTweet Screenshot](https://huggingface.co/spaces/YOUR_USERNAME/SafeTweet/resolve/main/screenshot1.png)
+
 > _"Helping make Twitter a safer space, one tweet at a time."_
 
 ---
@@ -63,5 +63,5 @@
 
 ---
 
-## 📁 Project Structure
+
 
