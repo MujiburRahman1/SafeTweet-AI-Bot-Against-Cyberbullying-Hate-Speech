@@ -33,7 +33,7 @@
 
 ## 🌐 Live Demo
 
-👉 [Try it on Hugging Face Spaces](https://huggingface.co/spaces/YOUR_USERNAME/SafeTweet)  
+👉 [Try it on Hugging Face Spaces]([https://huggingface.co/spaces/YOUR_USERNAME/SafeTweet](https://huggingface.co/spaces/MujiburrRahman/Safe-Tweet))  
 *(Replace with your real Hugging Face URL)*
 
 ---
